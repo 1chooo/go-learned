@@ -1,6 +1,11 @@
 # `GO` Learning Materials
 
-https://github.com/golang/example/tree/master/outyet
+1. https://github.com/golang/example
+2. https://gobyexample.com/
+3. https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md
+4. https://github.com/goinaction/code
+5. https://github.com/inancgumus/learngo
+6. https://github.com/SimonWaldherr/golang-examples
 
 ## CONTACT INFO.
 
