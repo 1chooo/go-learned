@@ -1,11 +1,13 @@
 # `GO` Learning Materials
 
-1. https://github.com/golang/example
-2. https://gobyexample.com/
-3. https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md
-4. https://github.com/goinaction/code
-5. https://github.com/inancgumus/learngo
-6. https://github.com/SimonWaldherr/golang-examples
+1. [使用 Golang 打造 Web 應用](https://willh.gitbook.io/build-web-application-with-golang-zhtw/)
+2. https://github.com/astaxie/build-web-application-with-golang
+3. https://github.com/golang/example
+4. https://gobyexample.com/
+5. https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md
+6. https://github.com/goinaction/code
+7. https://github.com/inancgumus/learngo
+8. https://github.com/SimonWaldherr/golang-examples
 
 ## CONTACT INFO.
 
